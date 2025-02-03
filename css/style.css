@@ -1112,4 +1112,17 @@ footer {
     padding: 16px 8px;
     max-width: unset;
   }
+
+  .rich {
+    max-width: 100%;
+  }
+
+  .hester {
+    max-width: unset;
+    width: 95%;
+  }
+  .absolute {
+    max-width: unset;
+    width: 80%;
+  }
 }
